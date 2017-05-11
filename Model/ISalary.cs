@@ -20,11 +20,11 @@ namespace Model
         /// </summary>     
        string LastName { get; set; } 
         /// <summary>
-        /// Дата приема
+        /// Дата приема на работу
         /// </summary>     
        int DateOfReceipt { get; set; }
         /// <summary>
-       /// Метод рассчет зарплаты
+       /// Метод рассчет зарплаты рабочего
        /// </summary>
        /// <returns></returns>
        double GetSalary();

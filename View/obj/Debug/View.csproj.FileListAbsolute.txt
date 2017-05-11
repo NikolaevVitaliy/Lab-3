@@ -55,3 +55,6 @@ C:\Users\krat5\Desktop\1\СПО\Lab12\5\View\obj\Debug\View.CreatingForm.resourc
 C:\Users\krat5\Desktop\1\СПО\Lab12\5\View\obj\Debug\View.SalaryForm.resources
 C:\Users\krat5\Desktop\1\СПО\Lab12\5\View\obj\Debug\View.Properties.Resources.resources
 C:\Users\krat5\Desktop\1\СПО\Lab12\5\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\krat5\Desktop\L3\View\bin\Debug\View.exe.config
+C:\Users\krat5\Desktop\L3\View\obj\Debug\View.exe
+C:\Users\krat5\Desktop\L3\View\obj\Debug\View.pdb
