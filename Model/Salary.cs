@@ -130,7 +130,7 @@ namespace Model
      
 
          /// <summary>
-        /// Метод расчета зарплаты
+        /// Метод расчета зарплаты рабочего
         /// </summary>
         public double GetSalary()
         {
